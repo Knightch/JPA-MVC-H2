@@ -1,0 +1,5 @@
+insert into alien_entity values (101, 'Aman', 'Java')
+insert into alien_entity values (102, 'Amarjit', 'JS')
+insert into alien_entity values (103, 'Raj', 'Python')
+insert into alien_entity values (104, 'Jitu', 'Go')
+insert into alien_entity values (105, 'Sujit', 'Php')
